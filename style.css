@@ -1,0 +1,163 @@
+/* header1 */
+.header1-nav{
+background-image: url('/images/donation1.jpg');
+background-size: cover;
+width: 100%;
+height: 100vh;
+text-align: center;
+justify-content: center;
+
+
+
+}
+.ggg{
+font-size: 55px;
+font-weight: 800;
+color:whitesmoke;
+padding-top: 200px;
+
+}
+.header1-para{
+ font-size: 25px;
+ font-weight: 700;
+ color: aliceblue;}
+.btn-dd{
+    font-size: 25px;
+    font-weight: 600;
+    padding: 10px 35px;
+    background-color: orange;
+}
+/* section2 */
+.section2-div{
+    text-align: center;
+}
+.rr{
+    font-size: 45px;
+    font-weight: 700;
+}
+.rrr{
+    font-size: 25px;
+    font-weight: 500;
+}
+ul li{
+    list-style: none;
+}
+
+.ul{
+    display: flex;
+    text-align: center;
+    font-size: 35px;
+    padding-left: 400px;
+    gap: 25px;
+    
+}
+.li2{
+ background-color: yellow;
+ padding: 5px 10px;
+ border-style: 5px solid red;
+}
+.li{
+background-color:lavender;
+padding: 8px 16px;
+}
+.h2{
+    padding-top: 30px;
+}
+.ww{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.www{
+    font-size: 40px;
+font-weight: 700;
+
+}
+.wwww{
+    font-size: 20px;
+    
+}
+.font{
+  font-size: 25px;
+  font-weight: 600;
+}
+.font-s{
+ font-size: 15px;
+}
+.sec4{
+    display: flex;
+    gap: 25px;
+    border-radius: solid red;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.mydiv1{
+background-color: aquamarine;
+margin: 50px 30px;
+padding: 50px;
+}
+.mydiv2{
+background-color: azure;
+margin: 50px 30px;
+padding: 50px;
+
+}
+.mydiv3{
+background-color: antiquewhite;
+margin: 50px 30px;
+padding: 50px;
+}
+.sec3{
+padding: 50px;
+}
+.sec3-h{
+font-size: 45px;
+}
+.sec3-p{
+font-size: 25px;
+}
+.devide{
+    display: flex;
+    gap: 30px;
+   margin-left: 200px;
+   margin-right: 200px;
+   padding-top: 70px;
+}
+.img{
+    
+    height: 200px;
+}
+.sec4{
+   
+}
+
+.sec4-h{
+    font-size: 45px;
+    font-weight: 700;
+}
+.sec4-p{
+    font-size: 25px;
+}
+.sec4-div{
+    padding: 30px;
+    margin: 50px;
+}
+.sec5-h{
+    font-size: 45px;
+    font-weight: 800;
+}
+.sec5-p{
+    font-size: 25px;
+}
+.sec5-div{
+    text-align: center;
+}
+.sec5-div2{
+   
+    background-color: aqua;
+    padding: 100px;
+    margin-left: 400px;
+    margin-right: 400px; 
+    
+
+}
